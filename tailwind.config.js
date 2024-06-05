@@ -9,6 +9,7 @@ module.exports = {
       xl: "1440px",
     },
     colors: {
+      white: "#ffffff",
       brightRed: "hsl(12, 88%. 59%)",
       pink: "#be185d",
       lightpink: "#fca5a5",
